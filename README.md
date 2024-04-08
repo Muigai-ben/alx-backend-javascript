@@ -1,2 +1,2 @@
 BACKEND
-advancing on javascrit
+advancing on javascript programming
