@@ -1,2 +1,2 @@
 BACKEND
-advancing on javascript programming
+advancing on javascript programming and nodejs
